@@ -1,0 +1,200 @@
+{
+  "channel": "EMAIL",
+  "message": "EXPORTED",
+  "data": {
+    "store_id": "LINIO_MX",
+    "order_number": "214722622",
+    "name_first": "Aldo",
+    "email": "rogelio.ramirez@live.com.mx",
+    "phone": null,
+    "mobile_phone": "5555555555",
+    "is_retry": false,
+    "customer_info": {
+      "linio_id": "wz07ke",
+      "is_linio_plus": null,
+      "has_linio_wallet": null,
+      "has_linio_card": null,
+      "wallet_value": "0.00"
+    },
+    "address_shipping": {
+      "is_store_pickup": "0",
+      "store_coordinates": [
+        [
+          
+        ]
+      ],
+      "store_name": null,
+      "firstname": "Aldo",
+      "lastname": "Hernandez",
+      "street_name": "RioElba",
+      "street_number": "20",
+      "int_number": null,
+      "neighborhood": "Cuauhtu00e9moc",
+      "municipality": "Cuauhtu00e9moc",
+      "city": "CiudaddeMu00e9xico",
+      "region": null,
+      "postcode": "06500",
+      "country": null
+    },
+    "address_billing": {
+      "firstname": "Aldo",
+      "lastname": "Hernandez",
+      "street_name": "RioElba",
+      "street_number": "20",
+      "int_number": null,
+      "neighborhood": "Cuauhtu00e9moc",
+      "municipality": "Cuauhtu00e9moc",
+      "city": "CiudaddeMu00e9xico",
+      "region": null,
+      "postcode": "06500",
+      "country": null
+    },
+    "order": {
+      "order_date": "2017-10-2314: 57: 43",
+      "payment_method": "Banorte_Payworks_Lpay",
+      "masked_card_number": null,
+      "card_brand": "unknown",
+      "card_type": "Banorte_Payworks_Lpay",
+      "fraud_check": [
+        {
+          "invalid": false,
+          "invalid_code": 480,
+          "afs_result": 51
+        }
+      ],
+      "is_prepaid_cash": true,
+      "is_cod": false,
+      "authorization_capture": true,
+      "installments": true,
+      "subtotal": "0.00",
+      "interest": "0.00",
+      "coupon_discount": 0,
+      "cart_rules_discount": 100,
+      "shipping": "84.50",
+      "wallet_discount": "0.00",
+      "total_discount": 100,
+      "total": "673.50",
+      "installment_number": "1",
+      "installment_value": "673.50",
+      "plus_discount": 0,
+      "coupon_type": null
+    },
+    "products": 
+      {
+        "count": 1,
+        "main": [
+          {
+            "url": "http: //linio.com.mx/p/tribe-cargador-de-bateria-porta-til-starwars-chewbacca-lgd3sc",
+            "slug": "tribe-cargador-de-bateria-porta-til-starwars-chewbacca-lgd3sc",
+            "image": "https: //https: //media.linio.com.mx/p/16faa728d2304824b09a8cbf4ec928ef-product.jpg",
+            "name": "Tribe-CargadorDeBateriaPortu00e1tilStarwarsChewbacca",
+            "price": "589.00",
+            "original_price": "689.00",
+            "discount": 100,
+            "coupon_discount": "0.00",
+            "quantity": 1,
+            "seller": "Tribe-CargadorDeBateriaPortu00e1tilStarwarsChewbacca",
+            "plus_status": null,
+            "sku_simple": "TR338EL1CWT3ILMX-8298716",
+            "is_retail": false,
+            "is_fbl": false,
+            "is_imp": "0",
+            "is_oversize": false,
+            "is_virtual": false,
+            "allows_return": "1",
+            "carrier": "99Minutos",
+            "tracking_code": null,
+            "status_promised_delivery": null,
+            "promised_delivery_date": "2",
+            "new_promised_delivery_date": null,
+            "promised_date_range": null,
+            "effective_delivery_date": null,
+            "delivery_exception": null,
+            "cancellation_reason": null,
+            "is_return": false,
+            "allows_invoice": false,
+            "last_action_date": "2017-10-2314: 57: 46",
+            "due_payment": null,
+            "refund_value": "0.00",
+            "refund_coupon": null,
+            "previous_status": "exportable"
+          }
+        ],
+        "pending": [
+          
+        ],
+        "exported": [
+          {
+            "url": "http: //linio.com.mx/p/tribe-cargador-de-bateria-porta-til-starwars-chewbacca-lgd3sc",
+            "slug": "tribe-cargador-de-bateria-porta-til-starwars-chewbacca-lgd3sc",
+            "image": "https: //https: //media.linio.com.mx/p/16faa728d2304824b09a8cbf4ec928ef-product.jpg",
+            "name": "Tribe-CargadorDeBateriaPortu00e1tilStarwarsChewbacca",
+            "price": "589.00",
+            "original_price": "689.00",
+            "discount": 100,
+            "coupon_discount": "0.00",
+            "quantity": 1,
+            "seller": "Tribe-CargadorDeBateriaPortu00e1tilStarwarsChewbacca",
+            "plus_status": null,
+            "sku_simple": "TR338EL1CWT3ILMX-8298716",
+            "is_retail": false,
+            "is_fbl": false,
+            "is_imp": "0",
+            "is_oversize": false,
+            "is_virtual": false,
+            "allows_return": "1",
+            "carrier": "99Minutos",
+            "tracking_code": null,
+            "status_promised_delivery": null,
+            "promised_delivery_date": "2",
+            "new_promised_delivery_date": null,
+            "promised_date_range": null,
+            "effective_delivery_date": null,
+            "delivery_exception": null,
+            "cancellation_reason": null,
+            "is_return": false,
+            "allows_invoice": false,
+            "last_action_date": "2017-10-2314: 57: 46",
+            "due_payment": null,
+            "refund_value": "0.00",
+            "refund_coupon": null,
+            "previous_status": "exportable"
+          }
+        ],
+        "cancelled": [
+          
+        ],
+        "cancelled_voucher": [
+          
+        ],
+        "cancelled_refund": [
+          
+        ],
+        "shipped": [
+          
+        ],
+        "arrival_country": [
+          
+        ],
+        "delivery_today": [
+          
+        ],
+        "delivered": [
+          
+        ],
+        "closed": [
+          
+        ],
+        "return": [
+          
+        ],
+        "return_voucher": [
+          
+        ],
+        "return_refund": [
+          
+        ]
+      }
+    
+  }
+}
